@@ -6,3 +6,5 @@ __pycache__/
 *.whl
 dist/
 .fastembed_cache/
+config.bat
+node_modules

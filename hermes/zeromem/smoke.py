@@ -1,5 +1,9 @@
 """Provider lifecycle smoke test, no Hermes install required."""
 
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import importlib.util
 import json
 import tempfile
